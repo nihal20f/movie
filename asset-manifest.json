@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nihal20f/movie.git/static/css/main.9e8fcf8c.chunk.css",
+    "main.js": "/nihal20f/movie.git/static/js/main.20903b8f.chunk.js",
+    "main.js.map": "/nihal20f/movie.git/static/js/main.20903b8f.chunk.js.map",
+    "runtime-main.js": "/nihal20f/movie.git/static/js/runtime-main.94a6c2f4.js",
+    "runtime-main.js.map": "/nihal20f/movie.git/static/js/runtime-main.94a6c2f4.js.map",
+    "static/js/2.01e0ebc3.chunk.js": "/nihal20f/movie.git/static/js/2.01e0ebc3.chunk.js",
+    "static/js/2.01e0ebc3.chunk.js.map": "/nihal20f/movie.git/static/js/2.01e0ebc3.chunk.js.map",
+    "static/js/3.0aa50d04.chunk.js": "/nihal20f/movie.git/static/js/3.0aa50d04.chunk.js",
+    "static/js/3.0aa50d04.chunk.js.map": "/nihal20f/movie.git/static/js/3.0aa50d04.chunk.js.map",
+    "index.html": "/nihal20f/movie.git/index.html",
+    "static/css/main.9e8fcf8c.chunk.css.map": "/nihal20f/movie.git/static/css/main.9e8fcf8c.chunk.css.map",
+    "static/js/2.01e0ebc3.chunk.js.LICENSE.txt": "/nihal20f/movie.git/static/js/2.01e0ebc3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nihal20f/movie.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a6c2f4.js",
+    "static/js/2.01e0ebc3.chunk.js",
+    "static/css/main.9e8fcf8c.chunk.css",
+    "static/js/main.20903b8f.chunk.js"
+  ]
+}
